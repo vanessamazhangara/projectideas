@@ -10,16 +10,16 @@ User Profile Page
 
 # MVP
 
-Users can create photographer profile to promote their work/business;
-Users can search for photographers within the area & request them via messages;
-Users can like profiles;
-Users can leave reviews for photographers;
+-Users can create photographer profile to promote their work/business
+-Users can search for photographers within the area & request them via messages
+-Users can like profiles
+-Users can leave reviews for photographers
 
 # Database Contains
 
-Photographer info
-Messages
-Reviews
-Portfolio
-Tags
-Photos
+-Photographer info
+--Messages
+-Reviews
+-Portfolio
+-Tags
+-Photos
