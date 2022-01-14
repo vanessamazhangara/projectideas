@@ -1,5 +1,37 @@
-1. e-commerce site for a skincare product
+
 2. local photography listing site
+
+Indeed for photographers
+
+MVP:
+Users can sign up to have a photographer profile to promote their work;
+Users can search for photographers within the area & request them via messages;
+Users can like profiles;
+Users can leave reviews for photographers;
+
+
+
 3. group trip planner app
 4. space booking app for local church
-5. resturaunt reservation app 
+5. resturaunt reservation app //
+6. Seenimatic- blog/twitter site for non-movie crtics;
+
+Black Girl Fit- Blog/Community website for 
+
+Community Channel(s) to connect with others on their journey;
+create posts
+delete posts
+edit posts
+users can create profile
+Thrive Tribe
+Blog Articles by Creator
+
+PAGES:
+Landing Page or Home?
+Iffy's Blog
+About
+Thrive Tribe(Community Feed)
+Login 
+Register
+
+
